@@ -10,4 +10,15 @@ C¸ agkan Yapar, R. Levie, G. Kutyniok, and G. Caire, “Dataset of ˘
 pathloss and toa radio maps with localization application,” 2024.
 [Online]. Available: https://arxiv.org/abs/2212.11777
 
-Report possible glitches to zs1b200909@gmail.com. If you find this repository useful for your research. Please consider citing. 
+If you find this repository useful for your research, please consider citing. 
+
+@ARTICLE{11130716,
+  author={Chen, Xiaonan and Wang, Jun},
+  journal={IEEE Signal Processing Letters}, 
+  title={Grid-Free Radio Map Estimation via Unsupervised Implicit Continuous Representation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Spectrum cartography;radio map estimation;implicit neural representation;unsupervised learning},
+  doi={10.1109/LSP.2025.3601038}}
