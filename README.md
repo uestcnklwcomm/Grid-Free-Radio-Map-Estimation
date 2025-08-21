@@ -12,6 +12,7 @@ pathloss and toa radio maps with localization application,” 2024.
 
 If you find this repository useful for your research, please consider citing. 
 
+```bibtex
 @ARTICLE{11130716,
   author={Chen, Xiaonan and Wang, Jun},
   journal={IEEE Signal Processing Letters}, 
