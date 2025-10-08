@@ -180,4 +180,4 @@ for step in range(closed_loop_steps):
     plt.close()
 
 mdicXhat = {"Xgfrme": X_reconstruct, "NMSEgfrme": NMSE, 'SSIMgfrme': SSIM}
-savemat("RadioIRT4_INR_1500.mat", mdicXhat)
+savemat("RadioDPM_INR_1500.mat", mdicXhat)
